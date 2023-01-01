@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Kaizen1\Kaizen1\bin\Debug\net6.0\Kaizen1.exe
+C:\Users\User\source\repos\Kaizen1\Kaizen1\bin\Debug\net6.0\Kaizen1.deps.json
+C:\Users\User\source\repos\Kaizen1\Kaizen1\bin\Debug\net6.0\Kaizen1.runtimeconfig.json
+C:\Users\User\source\repos\Kaizen1\Kaizen1\bin\Debug\net6.0\Kaizen1.dll
+C:\Users\User\source\repos\Kaizen1\Kaizen1\bin\Debug\net6.0\ref\Kaizen1.dll
+C:\Users\User\source\repos\Kaizen1\Kaizen1\bin\Debug\net6.0\Kaizen1.pdb
+C:\Users\User\source\repos\Kaizen1\Kaizen1\obj\Debug\net6.0\Kaizen1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Kaizen1\Kaizen1\obj\Debug\net6.0\Kaizen1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Kaizen1\Kaizen1\obj\Debug\net6.0\Kaizen1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Kaizen1\Kaizen1\obj\Debug\net6.0\Kaizen1.AssemblyInfo.cs
+C:\Users\User\source\repos\Kaizen1\Kaizen1\obj\Debug\net6.0\Kaizen1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Kaizen1\Kaizen1\obj\Debug\net6.0\Kaizen1.dll
+C:\Users\User\source\repos\Kaizen1\Kaizen1\obj\Debug\net6.0\ref\Kaizen1.dll
+C:\Users\User\source\repos\Kaizen1\Kaizen1\obj\Debug\net6.0\Kaizen1.pdb
+C:\Users\User\source\repos\Kaizen1\Kaizen1\obj\Debug\net6.0\Kaizen1.genruntimeconfig.cache

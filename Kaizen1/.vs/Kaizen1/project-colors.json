@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0f21b5e4-1d80-49c8-9a5a-d4ba4151b8aa": {
+      "ProjectGuid": "0f21b5e4-1d80-49c8-9a5a-d4ba4151b8aa",
+      "DisplayName": "Kaizen1",
+      "ColorIndex": 0
+    },
+    "6ac81525-4b34-4132-8b59-e162f27f2d30": {
+      "ProjectGuid": "6ac81525-4b34-4132-8b59-e162f27f2d30",
+      "DisplayName": "ClassLibrary1",
+      "ColorIndex": 1
+    },
+    "a0fef9ef-ea67-41d9-b2cb-4e4ab2bad9ef": {
+      "ProjectGuid": "a0fef9ef-ea67-41d9-b2cb-4e4ab2bad9ef",
+      "DisplayName": "Q1",
+      "ColorIndex": 2
+    },
+    "613a823b-d1ca-44b7-b435-45456bfd7f0c": {
+      "ProjectGuid": "613a823b-d1ca-44b7-b435-45456bfd7f0c",
+      "DisplayName": "Q2",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

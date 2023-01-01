@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Kaizen1\ConsoleApp1\bin\Debug\net5.0\Q1.exe
+C:\Users\User\source\repos\Kaizen1\ConsoleApp1\bin\Debug\net5.0\Q1.deps.json
+C:\Users\User\source\repos\Kaizen1\ConsoleApp1\bin\Debug\net5.0\Q1.runtimeconfig.json
+C:\Users\User\source\repos\Kaizen1\ConsoleApp1\bin\Debug\net5.0\Q1.runtimeconfig.dev.json
+C:\Users\User\source\repos\Kaizen1\ConsoleApp1\bin\Debug\net5.0\Q1.dll
+C:\Users\User\source\repos\Kaizen1\ConsoleApp1\bin\Debug\net5.0\ref\Q1.dll
+C:\Users\User\source\repos\Kaizen1\ConsoleApp1\bin\Debug\net5.0\Q1.pdb
+C:\Users\User\source\repos\Kaizen1\ConsoleApp1\obj\Debug\net5.0\Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Kaizen1\ConsoleApp1\obj\Debug\net5.0\Q1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Kaizen1\ConsoleApp1\obj\Debug\net5.0\Q1.AssemblyInfo.cs
+C:\Users\User\source\repos\Kaizen1\ConsoleApp1\obj\Debug\net5.0\Q1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Kaizen1\ConsoleApp1\obj\Debug\net5.0\Q1.dll
+C:\Users\User\source\repos\Kaizen1\ConsoleApp1\obj\Debug\net5.0\ref\Q1.dll
+C:\Users\User\source\repos\Kaizen1\ConsoleApp1\obj\Debug\net5.0\Q1.pdb
+C:\Users\User\source\repos\Kaizen1\ConsoleApp1\obj\Debug\net5.0\Q1.genruntimeconfig.cache
